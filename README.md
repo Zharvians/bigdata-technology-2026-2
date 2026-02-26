@@ -1,4 +1,4 @@
-### 🌉 Enterprise Batch Data Pipeline: Big Data Processing with Spark
+### 🌉 Enterprise Batch Data Pipeline: Big Data Processing with Spark - PRAKTIKUM 2
 
 Batch Data Ingestion & Processing with Spark  
 **Enterprise Edition** (WSL + VS Code + Data Lake + Partitioning)  
